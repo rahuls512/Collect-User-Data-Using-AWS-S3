@@ -4,7 +4,8 @@ A small static web page with a form. The user enters a **Name** and **Surname**,
 
 **Author:** Rahul Sharan (Student ID: #41724)
 
-📄 **Full step-by-step guide (PDF):** [Download / view the PDF](./docs/project-guide.pdf)
+📄 **Full step-by-step guide (DOCX):** [Download / view the Project Guide](./Project%20Collect%20User%20Data%20Using%20AWS%20S3.docx)
+
 *(Place your PDF in the `docs/` folder with this name, or update the link.)*
 
 ---
